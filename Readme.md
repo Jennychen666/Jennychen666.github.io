@@ -1,8 +1,8 @@
-# This is a heading
-## This is another (smaller) heading
+# Heading:Jennychen666
+## my own wedsite with GitHub pages
 
-- this is the beginning of a list
-- this is the next item in the list
-- and the next
+- I am a first-year student in ZJE.
+- I love bioinformatics.
+- I like eating.
 
 [This is a link to a website](https://github.com/)
